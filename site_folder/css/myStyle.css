@@ -1,0 +1,125 @@
+body
+{
+color:#000000;
+background-color:#ffffff;
+font-family: Callibri, Arial, Helvetica, Geneva, Swiss, sans-serif;
+}
+
+header 
+{		
+display:block;
+padding:0px;
+margin-bottom:0px;
+margin-top:0px;
+}
+		
+#head  
+{	
+padding:0px; 
+margin:0px;
+border:0px;
+height:100px;
+background:#ffffff  url(../images/Kennedy.jpg) no-repeat center;
+margin-left:0px;
+}
+
+
+nav 
+{
+display:block;
+float:left;
+width:325px;
+background:#ffffff url(../images/Navscroll.jpg) no-repeat top;
+height:775px;
+}
+
+nav.a 
+{
+display:block;
+float:left;
+width:325px;
+background:#ffffff url(../images/Navscroll.jpg) no-repeat top;
+height:3000px;
+}
+
+ul
+{
+margin-left:350px
+}
+
+
+img.a
+{
+float: left;
+}
+img.b
+{
+float: right;
+}
+
+footer
+{
+text-align:center;
+}
+
+
+a:link
+{
+color:#000099;
+}
+a:visited
+{
+color:#990099;
+}
+a:active
+{
+color:#000099;
+}
+hr
+{
+margin-left:350px;
+width: 50%;
+height: 2px;
+}
+h1, h3
+{
+text-align:center;
+}
+
+img
+{
+width: 118px;
+height: 52px;
+display:block;
+margin-left: auto;
+margin-right: auto;
+}
+table
+{
+margin-left:350px;
+width: 80%;
+border-spacing: 2px;
+}
+th
+{
+font-weight: bold;
+font-style: italic;
+width: 40%;
+}
+table, th, td
+{
+border: 1px solid black;
+}
+th, td
+{
+text-align: left;
+padding: 2px;
+}
+th.width1
+{
+width: 249px;
+}
+th.width2
+{
+width: 25px;
+}

@@ -19,7 +19,7 @@ padding:0px;
 margin:0px;
 border:0px;
 height:100px;
-background:#ffffff  url(../images/Kennedy.jpg) no-repeat center;
+background:#ffffff  url(../images/kennedy.jpg) no-repeat center;
 margin-left:0px;
 }
 
@@ -29,7 +29,7 @@ nav
 display:block;
 float:left;
 width:325px;
-background:#ffffff url(../images/Navscroll.jpg) no-repeat top;
+background:#ffffff url(../images/navscroll.jpg) no-repeat top;
 height:775px;
 }
 
@@ -38,7 +38,7 @@ nav.a
 display:block;
 float:left;
 width:325px;
-background:#ffffff url(../images/Navscroll.jpg) no-repeat top;
+background:#ffffff url(../images/navscroll.jpg) no-repeat top;
 height:3000px;
 }
 
